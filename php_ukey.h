@@ -72,7 +72,7 @@ ZEND_END_MODULE_GLOBALS(ukey)
 #define UKEY_G(v) (ukey_globals.v)
 #endif
 
-typedef unsigned long long __uint64_t;
+typedef unsigned long long __uint64_t2;
 
 typedef struct {
     int datacenter_id;
